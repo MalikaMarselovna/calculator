@@ -7,3 +7,4 @@ btnPlus.on('click', function(){
     let sum = +input1.val() + +input2.val()
     result.text(sum)
 })
+
